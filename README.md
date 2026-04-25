@@ -25,6 +25,7 @@
 
 ## Project Structure
 
+```
 spotify-analysis/
 ├── data/
 │   ├── raw/
@@ -36,6 +37,7 @@ spotify-analysis/
 ├── dashboard/
 │   └── app.py
 └── README.md
+```
 
 ## Dataset
 Spotify Tracks Dataset via Kaggle — 114,000 tracks across 114 genres.
